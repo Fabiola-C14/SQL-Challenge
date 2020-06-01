@@ -1,0 +1,3 @@
+employeeSQL-checkpoint.ipynb
+employeeSQL-checkpoint-checkpoint.ipynb
+config.cpython-37.pyc
