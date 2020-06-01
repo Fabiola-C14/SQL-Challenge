@@ -16,12 +16,12 @@ In this assignment, an Entity Relationship Diagram (ERD), and tables were create
 * A report with all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 * A report with the frequency count of employee last names, i.e., how many employees share each last name. Data was sorted in descending order.
 
-## Entity Relationship Diagram
+#### Entity Relationship Diagram
 ![](images/ERD_Diagram.png)
 
 ## Importing Data to Pandas
 Data was imported to Pandas using SQLAlchemy to create a histogram to visualize the most common salary ranges for employees. In addition, 
  a bar chart was created with the average salary by title.
  
- ## Employees Salary Histogram
+ #### Employees Salary Histogram
  ![](images/employees_salary.PNG)
