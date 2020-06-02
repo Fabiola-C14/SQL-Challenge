@@ -5,7 +5,7 @@
 The purpose of this project is to analyze Pewlett Hackard employees data from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 
 ## Analysis 
-In this assignment, an Entity Relationship Diagram (ERD), and tables were created in SQL to hold data in the CSVs files. Once the data was loaded to the dabase, the following tasks were completed:
+In this assignment, an Entity Relationship Diagram (ERD), and tables were created in SQL to hold data in the CSVs files. Once the data was loaded to the database, the following tasks were completed:
 
 * A report with the following details of each employee: employee number, last name, first name, sex, and salary.
 * A report with first name, last name, and hire date for employees who were hired in 1986.
